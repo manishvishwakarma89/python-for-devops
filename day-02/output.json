@@ -1,0 +1,17 @@
+{
+    "repository": {
+        "name": "AI-BankAPP",
+        "owner": "manishvishwakarma89",
+        "description": null,
+        "stars": 2,
+        "forks": 2
+    },
+    "branches": [
+        {
+            "name": "feat/gitops"
+        },
+        {
+            "name": "main"
+        }
+    ]
+}
